@@ -1,2 +1,2 @@
 # DataStructures
-All Data Structures
+Data Structures
